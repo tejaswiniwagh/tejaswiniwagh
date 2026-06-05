@@ -21,7 +21,6 @@ Full Stack Developer
 - Full Stack Developer with experience building web and mobile applications
 - Working with Angular, React, Node.js, Express.js, and FastAPI
 - Interested in scalable applications, modern UI/UX, and software development
-- Building and managing **Starry Crush**, a handcrafted candle brand
 - Currently exploring DevOps, Docker, CI/CD, and cloud technologies
 
 ---
