@@ -1,8 +1,17 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tejaswini Wagh</h1>
 
 <h3 align="center">
 Full Stack Developer
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejaswiniwagh&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/tejaswiniwagh?style=for-the-badge" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Node.js;Building+Web+and+Mobile+Applications;Open+to+Learning+and+Collaboration" />
@@ -63,19 +72,25 @@ MERN Stack application developed during internship experience.
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejaswiniwagh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswiniwagh&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=tejaswiniwagh&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswiniwagh&theme=tokyo-night" />
+</p>
+
+---
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswiniwagh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=tejaswiniwagh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
