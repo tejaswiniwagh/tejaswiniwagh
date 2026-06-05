@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Tejaswini Wagh 👋
 
-<!--
-**tejaswiniwagh/tejaswiniwagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aspiring Entrepreneur passionate about Web Development, Mobile Apps, and Technology
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- Angular
+- React
+- Tailwind CSS
+- JavaScript
+- TypeScript
+
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+
+### Database
+- MySQL
+- PostgreSQL
+- Supabase
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Postman
+
+---
+
+## 🚀 Current Projects
+
+### ELMS (CramSphere)
+Educational Learning Management System for students, teachers, institutes, and administrators.
+
+### Starry Crush (Currently WOrking )
+Founder of a handcrafted candle brand inspired by creativity, aesthetics, and meaningful gifting. Currently building the brand identity, ecommerce platform, and digital presence.
+
+### Nirdhara
+MERN Stack application developed during internship experience.
+
+---
+
+## 🌱 Currently Learning
+
+- DevOps
+- Docker
+- CI/CD
+- Cloud Deployment
+- System Design
+
+---
+
+## 🎯 Career Goals
+
+- Build scalable web applications
+- Grow Starry Crush into a successful brand
+- Work with global technology companies
+- Become a tech entrepreneur
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/tejaswini-wagh-393b97204
+
+---
+
+⭐ Always learning, building, and exploring new technologies.
