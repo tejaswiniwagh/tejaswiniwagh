@@ -62,12 +62,6 @@ Founder of a handcrafted candle brand inspired by creativity, aesthetics, and me
 
 MERN Stack application developed during internship experience.
 
-### 🎮 Byte Defender
-
-Cybersecurity-themed tower defense game.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
