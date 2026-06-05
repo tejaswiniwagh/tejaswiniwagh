@@ -54,7 +54,7 @@ Full Stack Developer | MCA Student | Future Tech Entrepreneur 🚀
 
 Educational Learning Management System for students, teachers, institutes, and administrators.
 
-### 🕯 Starry Crush
+### 🕯 Starry Crush (Currently Working)
 
 Founder of a handcrafted candle brand inspired by creativity, aesthetics, and meaningful gifting.
 
